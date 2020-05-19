@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="027449d2-5b23-409e-8b66-4477baefb458" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c89AHs1JB2w54Knx2lrmTKiYjw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TripPlanner" type="Application" factoryName="Application">
+      <module name="LearnToProgramInJava_TripPlanner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027449d2-5b23-409e-8b66-4477baefb458" name="Default Changelist" comment="" />
+      <created>1589899207767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589899207767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1589899220608">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680/1920.-354.2048.1112@0.0.1280.680" timestamp="1589899220608" />
+    <state x="360" y="0" width="575" height="680" key="#TripPlanner" timestamp="1589900036979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" width="575" height="680" key="#TripPlanner/0.0.1280.680/1920.-354.2048.1112@0.0.1280.680" timestamp="1589900036979" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589899957263">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.-354.2048.1112@0.0.1280.680" timestamp="1589899957263" />
+    <state x="371" y="123" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589900025741">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="123" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680/1920.-354.2048.1112@0.0.1280.680" timestamp="1589900025741" />
+    <state x="490" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589905029064">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680/1920.-354.2048.1112@0.0.1280.680" timestamp="1589905029064" />
+    <state x="291" y="0" key="new project wizard" timestamp="1589900945796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="291" y="0" key="new project wizard/0.0.1280.680/1920.-354.2048.1112@0.0.1280.680" timestamp="1589900945796" />
+  </component>
+</project>
